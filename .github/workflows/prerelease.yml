@@ -20,5 +20,5 @@ jobs:
           release-type: node
           package-name: ev.com
           pull-request-title-pattern: 'chore: release ${version} [skip ci]'
-          prerelease: True
+          prerelease: stage
 
