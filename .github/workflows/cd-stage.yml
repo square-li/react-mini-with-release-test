@@ -1,0 +1,13 @@
+name: CD-stage-region1
+
+on:
+  pull_request:
+    branches:
+      - "release/stage/*"
+
+jobs:
+   deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: test stuff 
+        run: echo "Simulating deploy"
