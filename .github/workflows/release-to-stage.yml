@@ -2,7 +2,7 @@ name: release-to-stage
 
 on:
   release:
-    types: [prerelease]
+    types: [prereleased]
     
 permissions:
   contents: write
