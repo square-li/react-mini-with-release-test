@@ -6,8 +6,8 @@ on:
       - main
 
 jobs:
-   test:
+   deploy:
     runs-on: ubuntu-latest
     steps:
       - name: test stuff 
-        run: echo "Simulating tests"
+        run: echo "Simulating deploy"
