@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/square-li/react-mini-with-release-test/compare/v1.2.0...v1.3.0) (2023-11-06)
+
+
+### Features
+
+* add new file ([ae0dc87](https://github.com/square-li/react-mini-with-release-test/commit/ae0dc87fc45ba86a2589e9b7ab9c81f634ded518))
+
 ## [1.2.0](https://github.com/square-li/react-mini-with-release-test/compare/v1.1.0...v1.2.0) (2023-11-06)
 
 
