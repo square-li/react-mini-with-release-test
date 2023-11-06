@@ -1,3 +1,5 @@
+name: pre-release
+
 on:
   push:
     branches:
@@ -9,8 +11,6 @@ permissions:
   contents: write
   pull-requests: write
 
-name: release-please
-
 jobs:
   release-please:
     runs-on: ubuntu-latest
@@ -20,3 +20,5 @@ jobs:
           release-type: node
           package-name: ev.com
           pull-request-title-pattern: 'chore: release ${version} [skip ci]'
+          prerelease: true
+
