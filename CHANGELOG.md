@@ -1,19 +1,5 @@
 # Changelog
 
-## [1.3.1-beta](https://github.com/square-li/react-mini-with-release-test/compare/v1.3.0...v1.3.1-beta) (2023-11-06)
-
-
-### Features
-
-* remove text ([dab96f9](https://github.com/square-li/react-mini-with-release-test/commit/dab96f9257616d66114aa61cb75d12ea6126b3be))
-* update ([22c2b69](https://github.com/square-li/react-mini-with-release-test/commit/22c2b690f481a807eec52e229614110a052df290))
-* update text ([afdab5f](https://github.com/square-li/react-mini-with-release-test/commit/afdab5f4d18eebac597424d81cad3d17c0dd906f))
-
-
-### Bug Fixes
-
-* delete release to stage ([fe0f22e](https://github.com/square-li/react-mini-with-release-test/commit/fe0f22e9684a98e9c3c1fdaea942616ad814c8f8))
-* fix typo ([cda4272](https://github.com/square-li/react-mini-with-release-test/commit/cda4272df087bc86b0dc822e9ff2204cd828e35e))
 
 ## [1.3.0](https://github.com/square-li/react-mini-with-release-test/compare/v1.2.0...v1.3.0) (2023-11-06)
 
