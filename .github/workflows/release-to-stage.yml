@@ -1,6 +1,6 @@
 on:
   release:
-    - prerelease
+    types: [prerelease]
     
 permissions:
   contents: write
