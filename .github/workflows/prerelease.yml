@@ -21,4 +21,5 @@ jobs:
           package-name: ev.com
           pull-request-title-pattern: 'chore: release ${version} [skip ci]'
           prerelease: true
+          Release-As: 1.3.1-beta
 
